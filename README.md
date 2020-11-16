@@ -1,5 +1,12 @@
 # vuex-example
 
+### Requirements
+
+- Node
+- Npm
+- Rollup
+
+
 ## Project setup
 ```
 npm install
