@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "This was mocked by someone",
+      "body": "Mocked post"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Mocked post 2",
+      "body": "With json-server you can mock multiple responses"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Mocked post 3",
+      "body": "Mocked body"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Mocked post 4",
+      "body": "Wow another mock!!!!"
+    },
+    {
+      "userId": 4,
+      "title": "New inserted post",
+      "body": "OMG a new post!!!!",
+      "id": 5
+    }
+  ]
+}
